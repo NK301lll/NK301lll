@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Navneet Kumar Kushwaha
 - 👀 I’m interested in Web Development & DevOps
 - 🌱 I’m currently learning Web Development
-- 📫 to reach me email me on- navneetkush2608@gmail.com
+- 📫 to reach me email on- navneetkush2608@gmail.com
